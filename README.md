@@ -2,4 +2,4 @@
 ## 🛡️  SOC Certification
 
 
-![LetsDefend SOC Analyst Certificate](SOC LetsDefend.jpeg)
+[LetsDefend SOC Analyst Certificate](SOCLetsDefend.jpeg)
