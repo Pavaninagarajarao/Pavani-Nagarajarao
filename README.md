@@ -1,5 +1,5 @@
-# Pavani-Nagarajarao
-## 🛡️ Certifications
+
+## 🛡️  SOC Certification
 
 
 ![LetsDefend SOC Analyst Certificate](SOC LetsDefend.jpeg)
